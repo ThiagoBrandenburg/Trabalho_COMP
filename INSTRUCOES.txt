@@ -1,0 +1,12 @@
+Trabalho de compiladores
+Professor Ricardo
+Aluno Thiago Brandenbug
+UDESC - COMP
+
+Instrucoes de compilacao:
+
+make build_all : monta o trabalho e cria o compilador, que é o arquivo binario "compilador"
+
+./compilador nome_do_arquivo : executa o compilador no arquivo, gera java_bytecode.j como output
+
+make build_java:  executa a compilacao do java_bytecode.j pelo jasmin
